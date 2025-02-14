@@ -1,0 +1,1 @@
+This repository demonstrates a common HTML error: an unclosed tag.  The `bug.html` file contains an unclosed `<em>` tag.  The `bugSolution.html` file shows the corrected version with the closing tag added. Unclosed tags can cause rendering problems and prevent your HTML from validating properly. Always ensure that each opening tag has a corresponding closing tag.
